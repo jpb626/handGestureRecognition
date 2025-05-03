@@ -1,0 +1,6 @@
+kernel_type,decision_function_shape,HOG Cell Size,HOG Disabled,best_C_found,cv_accuracy,test_accuracy
+linear,ovo,80x80,False,0.01,73.34%,73.40%
+rbf,ovo,80x80,False,100,71.40%,79.10% 
+linear,ovo,32x32,False,0.1,68.87%,68.20%
+linear,ovo,N-A,True,10,87.73%,78.70%
+rbf,ovr,32x32,False,10,67.38%,81.40%

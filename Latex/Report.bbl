@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+
+\bibitem{Mantecon2016}
+T.~Mantecón, C.R. del Blanco, F.~Jaureguizar, and N.~García,
+\newblock ``Hand gesture recognition using infrared imagery provided by leap
+  motion controller,''
+\newblock in {\em International Conference on Advanced Concepts for Intelligent
+  Vision Systems (ACIVS 2016)}, Lecce, Italy, Oct 2016, pp. 47--57.
+
+\bibitem{Aurangzeb2023}
+Khursheed Aurangzeb et~al.,
+\newblock ``Deep learning approach for hand gesture recognition: Applications
+  in deaf communication and healthcare,''
+\newblock {\em CMC-Computers, Materials \& Continua}, 2023.
+
+\bibitem{Mahmood2024}
+Noof~T. Mahmood, Mohanad~S. Jabbar, and Mariam Abdalrazak,
+\newblock ``A real-time hand gesture recognition based on media-pipe and
+  support vector machine,''
+\newblock in {\em Advances in Intelligent Computing Techniques and Applications
+  (IRICT 2023)}, May 2024, vol. 211, pp. 263--273.
+
+\bibitem{Miron2019}
+Casian Miron et~al.,
+\newblock ``Hand gesture recognition based on svm classification,''
+\newblock in {\em 2019 E-Health and Bioengineering Conference (EHB)}, Nov 2019.
+
+\bibitem{Panduranga2018}
+H.~T. Panduranga and C.~Mani,
+\newblock ``Dynamic hand gesture recognition system: A short survey,''
+\newblock in {\em 2018 International Conference on Inventive Research in
+  Computing Applications (ICIRCA)}, Jul 2018.
+
+\bibitem{Premaratne2014}
+Prashan Premaratne,
+\newblock ``Historical development of hand gesture recognition,''
+\newblock in {\em Human Computer Interaction Using Hand Gestures}, pp. 5--29.
+  Cognitive Science and Technology, Jan 2014.
+
+\bibitem{Dalal2005}
+N.~Dalal and B.~Triggs,
+\newblock ``Histograms of oriented gradients for human detection,''
+\newblock in {\em IEEE Computer Society Conference on Computer Vision and
+  Pattern Recognition (CVPR 2005)}, San Diego, CA, USA, June 2005, pp.
+  886--893.
+
+\end{thebibliography}
